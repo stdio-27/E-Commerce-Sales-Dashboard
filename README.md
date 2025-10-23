@@ -1,8 +1,6 @@
-# Swikriti E-Commerce Sales Dashboard
+#  E-Commerce Sales Dashboard
 
-Welcome to the Swikriti E-Commerce Sales Dashboard
-
-![](https://github.com/swatisahu1998/E-Commerce-Sales-Dashboard-Using-PowerBI/blob/main/Dashboard.jpg)
+Welcome to the E-Commerce Sales Dashboard
 
 This all-encompassing dashboard typically incorporates numerous pivotal facets. Firstly, it provides a concise Sales Overview,  encapsulating pivotal statistics like overall revenue, order quantities, and average order value (AOV), often in conjunction with historical data for discerning enduring trends and patterns.  Sales by Product Category graphs furnish insights into the primary revenue-driving product categories, facilitating judicious inventory and promotional determinations. Furthermore, geographical Sales by Region illustrations shed light on regional sales disparities, guiding targeted market expansion endeavors. 
 Customer Segmentation assessments categorize customers based on diverse attributes such as demographics or purchasing habits, empowering tailored marketing ventures.  Sales Funnel Analysis dissects the customer journey, spotlighting potential bottlenecks to conversion. The Top Selling Products segment accentuates the most successful items,  offering guidance for inventory management tactics. Metrics gauging Marketing Campaign Performance aid in assessing the effectiveness of promotional endeavors, assisting in refining marketing strategies. Insights into Customer Retention and Churn Rate inform strategies for fostering customer loyalty. Inventory Management metrics ensure optimal stock levels, averting stock shortages. Financial Metrics, including profit margins and order profitability, provide a snapshot of the enterprise's financial well-being. Finally, the integration of Custom KPIs allows for tracking against specific business objectives. In essence, a Power BI eCommerce Sales Dashboard empowers enterprises with actionable insights, fostering a culture of data-driven decision-making to elevate overall performance and profitability in the fiercely competitive landscape of online retail."This Power BI report provides a comprehensive analysis of your e-commerce sales data, allowing you to gain valuable insights into your business performance. Below is a detailed overview of the dashboard along with instructions on how to use it effectively.
@@ -85,5 +83,5 @@ Customer Segmentation assessments categorize customers based on diverse attribut
 
 ## Author Details:
 
-- **Author:** [Swati Sahu](https://github.com/swatisahu1998)
+- **Author:** [Bikash Bhattachgarjee](https://github.com/stdio-27)
 
